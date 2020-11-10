@@ -1,6 +1,7 @@
-#PiHole List
+PiHole List
 
 A mega adlist created for PiHole.
+Number of gravity domains: 320525 (310962 unique domains)
 
 
 # Installation
